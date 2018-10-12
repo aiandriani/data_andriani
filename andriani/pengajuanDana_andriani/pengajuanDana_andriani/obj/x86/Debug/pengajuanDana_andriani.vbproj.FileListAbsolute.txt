@@ -1,0 +1,9 @@
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.Form1.resources
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.Resources.resources
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.vbproj.GenerateResource.Cache
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\bin\Debug\pengajuanDana_andriani.exe
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\bin\Debug\pengajuanDana_andriani.pdb
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\bin\Debug\pengajuanDana_andriani.xml
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.exe
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.xml
+D:\vibi.net\pengajuanDana_andriani\pengajuanDana_andriani\obj\x86\Debug\pengajuanDana_andriani.pdb
